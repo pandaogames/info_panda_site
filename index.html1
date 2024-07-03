@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agricultura Familiar</title>
+</head>
+<body>
+    <h1>Agricultura Familiar</h1>
+    <p>A agricultura familiar é responsável pela maior parcela dos empregos gerados no campo e representa a maior parte das propriedades agropecuárias brasileiras. Ela caracteriza-se pela produção de uma grande variedade de alimentos, como café, feijão, mandioca, banana e abacaxi.</p>
+    <p>Essa forma de agricultura é essencial para a segurança alimentar e nutricional da população, estando presente em todos os biomas do Brasil.</p>
+
+    <!-- Formulário -->
+    <h2>Compartilhe sua experiência</h2>
+    <form>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required><br>
+
+        <label for="experiencia">Conte-nos sobre sua experiência com agricultura familiar:</label><br>
+        <textarea id="experiencia" name="experiencia" rows="4" cols="50"></textarea><br>
+
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
