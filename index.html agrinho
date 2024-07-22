@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Agrinho 2024</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <img src="https://img.freepik.com/vetores-gratis/logotipo-do-mercado-de-agricultores-de-design-plano_23-2149325904.jpg?t=st=1721520767~exp=1721524367~hmac=773da913a0d919e98568039b6615f5fd83e419236231d76c2272b2cbd238b820&w=740">
+        <nav class="cabecalho-menu">
+            <ul class="cabecalho-menu-lista">
+                <li class="cabecalho-menu-listaitem"><a href="index.html">HOME</a>
+            
+                </li>
+                <li class="cabecalho-menu-listaitem">
+                    Pagina 2
+                </li>
+                <li class="cabecalho-menu-listaitem">
+                    Pagina 3
+                </li>
+            </ul>
+        </nav>
+
+    </header>
+    <main class="principal">
+       <section class="sobre">
+        <img src="https://www.unicafes.org.br/upload/noticias/g_96.jpg?v=20240720220645" alt="" class="sobre_imagem">
+        <div class="sobre_texto">
+            <h2 class="sobre_texto-titulo">Problemas na agricultura familiar</h2>
+            <p class="sobre_texto-conteudo">
+                A agricultura familiar enfrenta diversos desafios que impactam sua sustentabilidade e desenvolvimento. Aqui estão alguns dos principais problemas:
+
+Acesso a Recursos: Muitos agricultores familiares têm dificuldade em acessar crédito, tecnologia e insumos necessários para melhorar a produção. A falta de financiamento adequado limita a capacidade de investir em melhorias e inovações.
+Infraestrutura: A infraestrutura rural muitas vezes é inadequada, com estradas precárias e falta de acesso a serviços básicos como eletricidade e água potável. Isso dificulta o transporte e a comercialização dos produtos.
+Mudanças Climáticas: As mudanças climáticas representam um grande desafio, afetando a produtividade e a previsibilidade das colheitas. Eventos climáticos extremos, como secas e enchentes, podem devastar as plantações e reduzir a renda dos agricultores.
+Pressões Econômicas: A competição com grandes produtores e a volatilidade dos preços no mercado globalizado colocam pressão sobre os agricultores familiares. Além disso, muitos enfrentam dificuldades para encontrar mercados para seus produtos.
+Êxodo Rural: Muitos jovens deixam as áreas rurais em busca de melhores oportunidades nas cidades, resultando em uma população agrícola envelhecida. Isso pode levar à falta de mão de obra e à perda de conhecimentos tradicionais.
+Apesar desses desafios, a agricultura familiar é crucial para a segurança alimentar e o desenvolvimento sustentável, representando uma parte significativa da produção de alimentos no Brasil1.
+
+Você tem interesse em algum aspecto específico da agricultura familiar?
+            </p>
+
+        </div>
+       </section>
+       <section class="elementos">
+        <div class="elementos__div">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.pngtree.com%2Ffreepng%2Fcartoon-two-friends-hugging-cartoon-illustration-vector_12166608.html&psig=AOvVaw1knUVaDoIVMtWvpKFxo4rS&ust=1721761359417000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDdtI6ru4cDFQAAAAAdAAAAABAE" alt="" class="elementos__imagem">
+            <h1 class="elementos__titulo">
+                Osvaldo Chicon Neto Nº34
+                Lucimara Flengler Nº27
+            </h1>
+            </p>
+            </section>
+
+    </main>
+    <footer class="rodape">
+
+
+    </footer>
+
+
+</body>
+</html>
